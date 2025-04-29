@@ -153,15 +153,11 @@
             <mxPoint x="140" y="2180" as="sourcePoint" />
             <mxPoint x="190" y="2130" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="440" y="2100" />
               <mxPoint x="420" y="2100" />
               <mxPoint x="190" y="2180" />
               <mxPoint x="140" y="2130" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-92" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FxECJZCT59R36E0tdbwj-90">
-          <mxGeometry x="-0.8714" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
