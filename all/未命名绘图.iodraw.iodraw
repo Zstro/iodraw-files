@@ -163,6 +163,9 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-100" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="2350" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-101" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2400" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
