@@ -12,24 +12,6 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-126" value="Trs server" style="rounded=0;whiteSpace=wrap;html=1;container=0;align=left;verticalAlign=top;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="1630" width="500" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-53" target="FxECJZCT59R36E0tdbwj-102">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="1760" />
-              <mxPoint x="580" y="1760" />
-              <mxPoint x="580" y="1850" />
-              <mxPoint x="490" y="1850" />
-              <mxPoint x="490" y="1930" />
-              <mxPoint x="546" y="1930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-118" value="图片样式流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="FxECJZCT59R36E0tdbwj-117">
-          <mxGeometry x="-0.2237" y="-8" relative="1" as="geometry">
-            <mxPoint x="14" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-53" target="FxECJZCT59R36E0tdbwj-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -149,6 +131,24 @@
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-114" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FxECJZCT59R36E0tdbwj-134">
           <mxGeometry x="269" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-53" target="FxECJZCT59R36E0tdbwj-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1760" />
+              <mxPoint x="580" y="1760" />
+              <mxPoint x="580" y="1850" />
+              <mxPoint x="490" y="1850" />
+              <mxPoint x="490" y="1930" />
+              <mxPoint x="546" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-118" value="图片样式流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="FxECJZCT59R36E0tdbwj-117">
+          <mxGeometry x="-0.2237" y="-8" relative="1" as="geometry">
+            <mxPoint x="14" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
