@@ -61,7 +61,7 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-114" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FxECJZCT59R36E0tdbwj-125">
           <mxGeometry x="269" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-115" value="下载图片" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-84">
+        <mxCell id="FxECJZCT59R36E0tdbwj-115" value="下载图片/视频" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="2080" as="targetPoint" />
           </mxGeometry>
