@@ -110,13 +110,16 @@
           <mxGeometry x="70" y="2050" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-75" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2070" width="20" height="20" as="geometry" />
+          <mxGeometry x="520" y="2085.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-76" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2070" width="20" height="20" as="geometry" />
+          <mxGeometry x="540" y="2085.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-77" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2070" width="20" height="20" as="geometry" />
+          <mxGeometry x="560" y="2085.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-78" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2160" width="73" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
