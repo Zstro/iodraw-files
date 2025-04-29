@@ -101,10 +101,10 @@
           <mxGeometry x="285" y="2109" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-57" value="traffic-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="2109" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="2109" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-60" value="pipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="2109" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="2109" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
