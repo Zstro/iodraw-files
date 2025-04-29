@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FxECJZCT59R36E0tdbwj-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1970" width="500" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-122" value="Meta sever" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="495" y="2220" width="295" height="144" as="geometry" />
         </mxCell>
@@ -214,9 +217,6 @@
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-114" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FxECJZCT59R36E0tdbwj-125">
           <mxGeometry x="269" y="50" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1970" width="500" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
