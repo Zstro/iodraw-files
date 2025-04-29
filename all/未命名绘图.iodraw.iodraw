@@ -103,8 +103,8 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-57" value="traffic-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="2130" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-60" value="traffic-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="2140" width="80" height="30" as="geometry" />
+        <mxCell id="FxECJZCT59R36E0tdbwj-60" value="pipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
