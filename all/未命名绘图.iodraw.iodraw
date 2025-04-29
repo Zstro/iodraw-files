@@ -75,10 +75,9 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FxECJZCT59R36E0tdbwj-127" source="FxECJZCT59R36E0tdbwj-53" target="FxECJZCT59R36E0tdbwj-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="110" />
-              <mxPoint x="50" y="110" />
-              <mxPoint x="50" y="220" />
-              <mxPoint x="130" y="220" />
+              <mxPoint x="210" y="140" />
+              <mxPoint x="140" y="140" />
+              <mxPoint x="140" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
