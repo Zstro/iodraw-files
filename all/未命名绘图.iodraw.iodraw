@@ -122,7 +122,10 @@
           <mxGeometry x="500" y="2114" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-68" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2124" width="20" height="20" as="geometry" />
+          <mxGeometry x="520" y="2114" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-69" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2134" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
