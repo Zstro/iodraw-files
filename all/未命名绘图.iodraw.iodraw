@@ -118,6 +118,14 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-64" value="pipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="777" y="2109" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FxECJZCT59R36E0tdbwj-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxECJZCT59R36E0tdbwj-66" target="FxECJZCT59R36E0tdbwj-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="2124" />
+              <mxPoint x="510" y="2124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-66" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="2114" width="20" height="20" as="geometry" />
         </mxCell>
