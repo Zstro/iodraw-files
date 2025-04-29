@@ -69,7 +69,7 @@
         <mxCell id="FxECJZCT59R36E0tdbwj-132" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="1630" width="500" height="389" as="geometry" />
         </mxCell>
-        <mxCell id="FxECJZCT59R36E0tdbwj-126" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="FxECJZCT59R36E0tdbwj-132">
+        <mxCell id="FxECJZCT59R36E0tdbwj-126" value="Trs server" style="rounded=0;whiteSpace=wrap;html=1;container=0;align=left;" vertex="1" parent="FxECJZCT59R36E0tdbwj-132">
           <mxGeometry width="500" height="250" as="geometry" />
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FxECJZCT59R36E0tdbwj-132" source="FxECJZCT59R36E0tdbwj-53" target="FxECJZCT59R36E0tdbwj-102">
