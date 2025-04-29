@@ -140,13 +140,14 @@
               <mxPoint x="410" y="1750" />
               <mxPoint x="240" y="1750" />
               <mxPoint x="240" y="1840" />
-              <mxPoint x="369" y="1840" />
+              <mxPoint x="340" y="1840" />
+              <mxPoint x="340" y="2019" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FxECJZCT59R36E0tdbwj-130" value="视频处理流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FxECJZCT59R36E0tdbwj-129">
           <mxGeometry x="-0.4928" y="-2" relative="1" as="geometry">
-            <mxPoint x="-61" y="82" as="offset" />
+            <mxPoint x="-3" y="82" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
